@@ -78,8 +78,8 @@ public class Chakravyuha {
 // Test Case 2
 // Enemy Powers: [3, 5, 7, 10, 6, 9, 4, 8, 2, 7, 11]
 // Initial Power (p): 35
-// Number of Skips (s): 1
-// Number of Recharges (r): 2
+// Number of Skips (a): 1
+// Number of Recharges (b): 2
 // Answer: Abhimanyu can cross the Chakravyuha.
 
 // Test Case 3
